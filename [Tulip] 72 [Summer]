@@ -1,0 +1,25 @@
+{
+   "title":"[Tulip] 72 [Summer]",
+   "description":"",
+   "author":"Tulip",
+   "artist":"Tulip",
+   "cover":"https://i.imgur.com/Tp899UX.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/4nSsbRl"
+         },
+         "last_updated":1624606143,
+         "title":"72 [Summer]",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/TYRG1KV"
+         },
+         "last_updated":1624606143,
+         "title":"96 [Black]",
+         "volume":"2"
+      }
+   }
+}
