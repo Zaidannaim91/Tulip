@@ -1,0 +1,25 @@
+{
+   "title":"[Tulip] The Daily Life of a Half-Blood Succubus",
+   "description":"",
+   "author":"Tulip",
+   "artist":"Tulip",
+   "cover":"https://i.imgur.com/y2nSv1a.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YTCFBiy"
+         },
+         "last_updated":1624606143,
+         "title":"The Daily Life of a Half-Blood Succubus",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Id91ZsW"
+         },
+         "last_updated":1624606143,
+         "title":"The Daily Life of a Half-Blood Succubus 2",
+         "volume":"2"
+      }
+   }
+}
