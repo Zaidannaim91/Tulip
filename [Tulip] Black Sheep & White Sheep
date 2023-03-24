@@ -1,0 +1,25 @@
+{
+   "title":"[Tulip] Black Sheep & White Sheep",
+   "description":"",
+   "author":"Tulip",
+   "artist":"Tulip",
+   "cover":"https://i.imgur.com/sKPWus1.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Ecfby3D"
+         },
+         "last_updated":1624606143,
+         "title":"Black Sheep & White Sheep",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/DmddPsb"
+         },
+         "last_updated":1624606143,
+         "title":"White Letter",
+         "volume":"2"
+      }
+   }
+}
